@@ -1,2 +1,2 @@
 # Vulnerable-options
-Parameter estimation of uncertain stock model using residual method optimized by genetic algorithm: valuation of vulnerable European and barrier options
+In this file, the MATLAB programs used in the article "Parameter estimation of uncertain stock model using residual method optimized by genetic algorithm: valuation of vulnerable European and barrier options" are included.
